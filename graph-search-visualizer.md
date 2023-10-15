@@ -24,7 +24,7 @@ This is a graph search visualizer that visualizes different graph search algorit
 
 ![](https://github.com/HuakunShen/GraphSearchVisualizer/raw/master/README.md.assets/1564165155875.png)
 
-<iframe width="1315" height="749" src="https://www.youtube.com/embed/fgsNuKkj9nw" title="Graph Search Algorithm Visualizer (BFS, DFS, A*)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/fgsNuKkj9nw" title="Graph Search Algorithm Visualizer (BFS, DFS, A*)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Tech Stack
 
