@@ -6,9 +6,6 @@ title: Projects
 
 # Projects
 
-[Search By Tags](/projects/tags)
-
-
 I love coding and I love to share my knowledge with others. I have created many projects and I am still working on new ones. Here are some of my projects:
 
 ## GitHub Contribution
@@ -102,5 +99,6 @@ I love coding and I love to share my knowledge with others. I have created many 
       - OAuth
       - JWT
 
-
 <iframe src="https://github.com/sponsors/HuakunShen/card" title="Sponsor HuakunShen" height="225" width="600"></iframe>
+
+[Search By Tags](/projects/tags)
