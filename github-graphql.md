@@ -1,4 +1,7 @@
-# GitHub GraphQL
+---
+title: GitHub GraphQL
+---
+
 
 **GitHub:** https://github.com/HuakunShen/github-graphql
 

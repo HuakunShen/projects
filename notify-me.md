@@ -1,5 +1,5 @@
 ---
-titie: Notify Me
+title: Notify Me
 tags: [Nuxt, Vue, Tailwind, TypeScript, Netlify, Notion, Telegram, Email]
 ---
 

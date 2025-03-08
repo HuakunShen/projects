@@ -1,5 +1,5 @@
 ---
-title: User Input
+title: Tauri Plugin User Input
 tags: [Rust, Tauri, TypeScript]
 ---
 

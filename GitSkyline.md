@@ -1,4 +1,7 @@
-# Git Skyline
+---
+title: Git Skyline
+---
+
 
 Website: https://git-skyline.huakun.tech/
 

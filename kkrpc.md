@@ -1,4 +1,6 @@
-# kkRPC
+---
+title: kkRPC
+---
 
 [![NPM Version](https://img.shields.io/npm/v/kkrpc)](https://www.npmjs.com/package/kkrpc)
 ![JSR Version](https://img.shields.io/jsr/v/kunkun/kkrpc)

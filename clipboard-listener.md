@@ -27,7 +27,7 @@ npm package: https://www.npmjs.com/package/@crosscopy/clipboard
 ## Sample Usage
 
 ```ts
-import clipboardEventListener from "./@crosscopy/clipboard";
+import clipboardEventListener from "@crosscopy/clipboard";
 
 console.log(clipboard.readTextSync());
 console.log(await clipboard.readText());

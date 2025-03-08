@@ -1,4 +1,6 @@
-# Kunkun
+---
+title: Kunkun
+---
 
 > Kunkun is an open source, cross-platform, extensible app launcher like Raycast or Alfred.
 > All extensions run in a sandboxed environment by default to ensure security.

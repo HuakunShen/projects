@@ -1,4 +1,7 @@
-# Acorn Parser
+---
+title: Acorn Parser
+---
+
 
 Academic History Chrome Extension
 

@@ -1,4 +1,6 @@
-# Tauri Plugin Keyring
+---
+title: Tauri Plugin Keyring
+---
 
 **GitHub:** https://github.com/HuakunShen/tauri-plugin-keyring
 

@@ -1,5 +1,5 @@
 ---
-title: "Toronto Crime Rate Analysis"
+title: Toronto Crime Rate Analysis
 tags: [R, Data Analysis, Data Visualization]
 ---
 

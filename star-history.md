@@ -1,4 +1,8 @@
-# Star History
+---
+title: Star History
+---
+
+GitHub: https://github.com/HuakunShen/star-history
 
 This is a simple tool to show the star history of any GitHub repository.
 
@@ -6,9 +10,9 @@ PocketBase is used for caching.
 
 ## Usage
 
-Send a `GET` request to `https://star-history.pockethost.io/star-history/<username>/<repo>`
+Send a `GET` request to `https://star-history.pockethost.io/api/star-history/<username>/<repo>`
 
-e.g. `https://star-history.pockethost.io/star-history/tauri-apps/tauri`
+e.g. `https://star-history.pockethost.io/api/star-history/kunkunsh/kunkun`
 
 If you request a repo with lots of stars (e.g. 80k stars), it may take a while to get the result if it's the first time the repo is requested.
 
