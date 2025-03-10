@@ -2,8 +2,6 @@
 title: 3D Path Planning Algorithm
 ---
 
-# 3D Visualization of Path Planning Algorithm
-
 GitHub: https://github.com/HuakunShen/3D-Planning-Algorithm-Visualization
 
 > This project is implements a few popular Path Planning Algorithm in 3D as well as a visualizer for visualizing the environment and result.
